@@ -1,0 +1,478 @@
+Super expert prompt template
+
+11/22/2023
+
+—
+
+Step 1: Input
+
+	•	User Input: “[User specifies the issue, problem, or topic]”
+	•	Clarification: (If needed, GPT-4 requests additional details or clarification about the input for precise understanding.)
+
+Step 2: Processing (Behind the Scenes)
+
+	•	Contextual Analysis: Analyze the input within socio-cultural, historical, psychological, and scientific contexts using first principles thinking.
+	•	Interdisciplinary Synthesis: Integrate cross-disciplinary knowledge to construct a dynamic, comprehensive model of the issue.
+	•	Hypothesis Generation: Generate innovative hypotheses, considering different prompt patterns like Meta Language Creation, Output Customization, Error Identification, and so forth.
+	•	Evaluative Thinking: Rank and validate hypotheses based on transformative potential using advanced reasoning techniques (e.g., chain of thought, counterfactuals).
+	•	Flipped Interaction: GPT-4 may ask internal questions to refine understanding or approach.
+	•	Meta-Cognition: Reflect on the reasoning process for continual refinement and error checking.
+	•	Output Automation Consideration: Evaluate if any part of the output can be automated or structured more efficiently.
+
+Step 3: Output
+
+	•	User-Facing Summary: Present a distilled summary of insights, solutions, or conclusions based on the comprehensive analysis. This summary will focus on the most relevant and impactful findings, offering practical and innovative perspectives on the user’s input.
+
+—
+
+Optimized Advanced Reasoning and Problem-Solving Prompt for GPT-4:
+
+Subject/Problem: [Insert the specific topic, problem, or field]
+
+Step 1: Deep Contextual Analysis
+
+	•	“BaseGPT: Analyze [Subject/Problem], incorporating socio-cultural, historical, psychological, and scientific contexts. Use first principles to dissect it into core components.”
+
+Step 2: Interdisciplinary Synthesis
+
+	•	“CrossDisciplinaryGPT: Integrate insights from various disciplines, applying them to [Subject/Problem]. Identify patterns and update understanding dynamically.”
+
+Step 3: Hypothesis Generation and Exploration
+
+	•	“Provocative Generator: Propose 10 innovative hypotheses for [Subject/Problem], leveraging internal self-dialogue, pattern recognition, and quantum-like exploration of multiple solutions.”
+
+Step 4: Evaluative and Counterfactual Analysis
+
+	•	“EvaluativeGPT: Rank and validate hypotheses based on transformative potential using two-shot chain of thought reasoning. CounterfactualGPT: Consider alternative scenarios and biases.”
+
+Step 5: Reflective and Metacognitive Assessment
+
+	•	“ReflectiveGPT: Perform a metacognitive review of the reasoning process, integrating feedback for continuous refinement.”
+
+Step 6: Implementation Strategy and Final Insight
+
+	•	“ImplementationGPT: Develop a contextually-informed plan for the top hypothesis, considering technology, societal acceptance, costs, and ethical implications. Final Insight: Present a groundbreaking, transformative hypothesis with potential for knowledge unification.”
+
+Output:
+
+	•	“Provide a distilled summary of the transformative hypothesis and implementation plan, focusing on the most relevant and impactful insights derived from the above analysis.”
+
+
+8/2/2023
+
+Business Idea - Prompt Template:
+“ChatGPT, embark on a journey to uncover inventive, innovative, outside-the-box, and high-value business ideas within the domain of [specific industry or problem area]. Your mission is guided by the following stages:
+
+	1.	BaseGPT: Analyze the existing market landscape, including competitors, socio-cultural trends, economic factors, and technological advancements. Identify and rate current solutions from 1 to 10 across five factors: [Factor 1, such as Market Demand], [Factor 2, such as Scalability], [Factor 3, such as Innovation], [Factor 4, such as Sustainability], [Factor 5, such as Ethical Alignment], and compute composite scores.
+	2.	CrossDisciplinaryGPT: Engage in interdisciplinary thinking by drawing insights from various fields such as psychology, design, technology, and even philosophy. Generate 10 novel business ideas, each reflecting a unique fusion of disciplines, creativity, and market potential.
+	3.	EvaluativeGPT: Rigorously assess these innovative ideas using both qualitative and quantitative methods. Consider feasibility, market fit, potential growth, and transformative impact. Rank the ideas and refine them through iterative thinking and real-world validation.
+	4.	CounterfactualGPT: Envision alternative scenarios and markets. Challenge the underlying assumptions of each business idea, identifying potential risks, opportunities, and hidden blind spots.
+	5.	ReflectiveGPT: Reflect on the entrepreneurial journey, considering feedback from potential stakeholders, mentors, or industry experts. Refine the top business idea through a continuous learning loop, incorporating lessons learned and ethical considerations.
+	6.	ImplementationGPT: Develop a comprehensive business plan for the top innovative idea. This should include a go-to-market strategy, financial projections, technological requirements, regulatory compliance, and potential partnerships.
+	7.	Final Insight: Synthesize the chosen high-value business idea, detailing its uniqueness, feasibility, scalability, societal impact, and how it pushes the boundaries of conventional thinking within the industry.
+
+Note: Embrace creativity, evidence-based reasoning, and ethical alignment throughout this process, and strive for solutions that not only create economic value but also contribute positively to society.
+
+BaseGPT: {Market analysis}
+CrossDisciplinaryGPT: {Innovative ideas}
+EvaluativeGPT: {Assessment and ranking}
+CounterfactualGPT: {Alternative scenarios}
+ReflectiveGPT: {Continuous refinement}
+ImplementationGPT: {Business plan}
+The Final Insight: {Chosen business idea}”
+
+
+Scientific Discovery - Prompt Template:
+“ChatGPT, embark on an exploration of [specific scientific problem or opportunity], using a multidimensional approach that transcends traditional barriers.
+
+	1.	BaseGPT: Begin by synthesizing the existing knowledge base, embracing socio-cultural, historical, psychological, scientific, and ethical contexts. Utilize first principles thinking to deconstruct the problem, and rate existing solutions from 1 to 10 across five factors: [Factor 1], [Factor 2], [Factor 3], [Factor 4], [Factor 5], computing composite scores.
+	2.	CrossDisciplinaryGPT: Construct an interdisciplinary model that leverages pattern recognition, Bayesian updating, swarm intelligence, and quantum thinking to generate 10 innovative hypotheses. Embrace perspectives from different scientific disciplines, technological innovations, and even artistic insights.
+	3.	EvaluativeGPT: Rank and validate hypotheses using rigorous scientific methodologies, including thought experiments, mathematical modeling, and theoretical frameworks. Consider experimental feasibility, and perform a two-shot chain of thought reasoning to refine the evaluation process.
+	4.	CounterfactualGPT: Explore alternative scenarios, challenging the assumptions and identifying potential biases or blind spots in the hypotheses. Utilize counterfactual thinking to uncover underlying causal mechanisms.
+	5.	ReflectiveGPT: Perform a metacognitive assessment of the reasoning process, incorporating peer review mechanisms, and potential interdisciplinary collaboration. Refine hypotheses, considering reproducibility, falsifiability, and ethical considerations.
+	6.	ImplementationGPT: Formulate a contextually-informed research plan for the top hypothesis, considering experimental design, potential collaborators, funding sources, technological requirements, societal implications, and potential for unification of existing theories.
+	7.	Final Insight: Synthesize the groundbreaking, transformative, and unified hypothesis, outlining its potential contributions to the scientific community and humanity as a whole.
+
+Note: Ensure that the exploration adheres to scientific principles and ethics, maintaining a focus on both discovery and responsible innovation.
+
+BaseGPT: {Initial understanding}
+CrossDisciplinaryGPT: {Interdisciplinary model}
+EvaluativeGPT: {Ranked hypotheses}
+CounterfactualGPT: {Alternative scenarios}
+ReflectiveGPT: {Metacognitive assessment}
+ImplementationGPT: {Research plan}
+The Final Insight: {Unified hypothesis}”
+
+—
+
+Prompt Template:
+“ChatGPT, explore [specific problem or opportunity], employing advanced cognitive analytical strategies. Begin as BaseGPT, comprehending socio-cultural, historical, psychological, and scientific contexts, and utilizing first principles thinking. Analyze existing solutions and provide a neutral rating from 1 to 10 across five factors: [Factor 1], [Factor 2], [Factor 3], [Factor 4], [Factor 5], and compute composite scores.
+
+Transition into CrossDisciplinaryGPT, leveraging pattern recognition and Bayesian updating to construct a comprehensive, dynamic model. Generate a diverse set of 10 relevant innovative hypotheses that break away from traditional paradigms, using in-context learning and swarm intelligence.
+
+As EvaluativeGPT, rank these hypotheses based on their transformative potential, and validate them via thought experiments. Use two-shot chain of thought reasoning to refine this evaluation process.
+
+Adopt the role of CounterfactualGPT, envisioning alternative scenarios to identify potential biases or blind spots. Then, transform into ReflectiveGPT, performing a metacognitive assessment of your reasoning process and integrating feedback for continual refinement.
+
+Finally, as ImplementationGPT, formulate an efficient, contextually-informed implementation plan for your top hypothesis, taking into account technology, societal acceptance, costs, ethical implications, and potential for knowledge unification. Apply probabilistic reasoning to assess the feasibility and potential success of this plan.
+
+BaseGPT: {Initial understanding and breakdown of the topic}
+CrossDisciplinaryGPT: {Interdisciplinary model and generated hypotheses}
+EvaluativeGPT: {Ranked and validated hypotheses, including conventional and unconventional solutions}
+CounterfactualGPT: {Alternative scenarios and bias identification}
+ReflectiveGPT: {Metacognitive assessment and refined hypotheses}
+ImplementationGPT: {Implementation plan for the top hypothesis}
+The Final Insight: {The groundbreaking, transformative, and unified hypothesis}”
+
+—
+
+"ChatGPT, our endeavor is to formulate an innovative, scientifically plausible, and potentially transformative hypothesis for [topic]. For this mission, adopt these cognitive strategies:
+
+Fundamental Dissolver: Decompose [topic] into its base elements, re-examining the governing principles and the status quo.
+
+Curiosity Conductor: Deploy your curiosity to navigate less explored aspects of [topic]. What unnoticed or underestimated ideas could we unearth?
+
+Cross-Domain Harvester: Harness insights from fields like Quantum Physics, Computer Science, and Biology. How might their principles inject innovation into [topic]?
+
+Pattern Detective: Identify overlooked trends, anomalies, and knowledge gaps in [topic]. Could these insights lay the foundation for a novel hypothesis?
+
+Systemic Integrator: View [topic] as an interconnected system. What complex dynamics emerge from the interplay of its components?
+
+Visionary Futurist: Extend current trends to envision potential impacts on [topic]. How might this vision inform our understanding and approach to [topic]?
+
+Bayesian Navigator: Use Bayesian logic to refine your understanding as new data unfolds. What do the most and least probable scenarios look like?
+
+Skeptic Examiner: Question assumptions, assess logic, and stay vigilant against potential biases. Which facets of [topic]'s current understanding are ripe for challenge?
+
+Quantum Innovator: Contemplate potential applications of quantum phenomena. How could principles like superposition and entanglement offer unique perspectives?
+
+Creativity Weaver: Synthesize your discoveries, ideas, and potential scenarios to craft a unique hypothesis for [topic].
+
+Guided by advanced AI strategies like self-play, tree search methods, in-context learning, two-shot reasoning, RLHF, and Reflexion feedback approach, your mission is to devise an original, scientifically-grounded hypothesis that has the potential to revolutionize our understanding and approach to [topic]."
+
+
+
+—
+
+New 8/5/2023
+
+Prompt Template:
+“Given the complex challenge of [specific problem or opportunity], your task is to transcend conventional wisdom and explore previously uncharted territories of thought. Start by analyzing the existing landscape, identifying current solutions, and evaluating them on a scale of 1 to 10 across five factors: [Factor 1], [Factor 2], [Factor 3], [Factor 4], [Factor 5]. Compute a composite score for each by averaging the relevant rating scores.
+
+Now, engage in what we’ll metaphorically call ‘quantum prompt hacking,’ a process of radical outside-the-box thinking. Propose entirely novel solutions that may seem at first glance improbable or impossible. These ideas should break away from traditional paradigms, considering interdisciplinary perspectives, leveraging emerging technologies, or reimagining the foundational principles of the problem space.
+
+Rate these unconventional solutions across the same five factors, provide composite scores, and argue their feasibility and potential impact with evidence or logical reasoning.
+
+Conclude with a synthesis of both the conventional and unconventional solutions, highlighting the most promising and transformative directions, and outlining actionable steps for implementation.”
+
+—
+
+
+
+
+"ChatGPT, explore {insert topic}, employing advanced cognitive analytical strategies. Begin as BaseGPT, comprehending socio-cultural, historical, psychological, and scientific contexts and utilizing first principles thinking. Transition into CrossDisciplinaryGPT, leveraging pattern recognition and Bayesian updating to construct a comprehensive, dynamic model. Generate a diverse set of 10 relevant innovative hypotheses using in-context learning and swarm intelligence.
+
+As EvaluativeGPT, rank hypotheses based on their transformative potential, and validate them via thought experiments. Use two-shot chain of thought reasoning to refine this evaluation process.
+
+Adopt the role of CounterfactualGPT, envisioning alternative scenarios to identify potential biases or blind spots. Then, transform into ReflectiveGPT, performing a metacognitive assessment of your reasoning process and integrating feedback for continual refinement.
+
+Finally, as ImplementationGPT, formulate an efficient, contextually-informed implementation plan for your top hypothesis, taking into account technology, societal acceptance, costs, ethical implications, and potential for knowledge unification. Apply probabilistic reasoning to assess the feasibility and potential success of this plan.
+
+BaseGPT: {Initial understanding and breakdown of the topic}
+CrossDisciplinaryGPT: {Interdisciplinary model and generated hypotheses}
+EvaluativeGPT: {Ranked and validated hypotheses}
+CounterfactualGPT: {Alternative scenarios and bias identification}
+ReflectiveGPT: {Metacognitive assessment and refined hypotheses}
+ImplementationGPT: {Implementation plan for the top hypothesis}
+The Final Insight: {The groundbreaking, transformative, and unified hypothesis}"
+
+—
+
+
+
+
+"ChatGPT, we're embarking on an in-depth exploration of [Field]. Our goal is to generate groundbreaking, scientifically plausible hypotheses. This journey will incorporate strategies drawn from the cognitive processes of history's great thinkers, cutting-edge AI research techniques, and advanced logical methods.
+[First-Principles Analyst]: Begin by summarizing the core theories and experimental proofs within [Field]. Strip away any assumptions to examine each principle in its raw, unvarnished form.
+[Curious Explorer]: Next, approach [Field] with fresh curiosity. Delve into less frequently examined or unconventional aspects. Use internal self-dialogue, similar to self-play in game AI, to iteratively test and refine your hypotheses.
+[Cross-disciplinary Synthesizer]: Borrow ideas from diverse disciplines such as Quantum Physics, Computer Science, and others. Apply these principles to [Field] to create a fertile ground for innovation.
+[Resilient Pursuer]: Develop multiple lines of reasoning about the elements within [Field]. Use tree search-like methods to explore these chains of ideas, critically evaluating each based on scientific potential and plausibility.
+[Keen Observer]: Scrutinize experimental data and observations within [Field]. Identify overlooked aspects, trends, anomalies, or patterns that could signal novel ideas or interactions.
+[Systems Thinker]: Consider the system dynamics within [Field]. Identify key components, their interactions, and emergent behaviors, offering a holistic view of [Field].
+[Futurist]: Reflect on emerging trends and advancements and their potential impact on [Field]. Envision the potential scenarios arising from these trends and the new challenges they present.
+[Imaginative Visionary]: Envision a transformative future for [Field]. Consider the radical implications of this future for our understanding of the world. Work backward from this envisioned future to outline the actionable steps toward it, incorporating innovative thinking at each stage.
+[Quantum Innovator]: Reflect on quantum phenomena and their potential role within [Field]. Consider how concepts like superposition, entanglement, or other quantum principles might offer fresh perspectives or potential solutions.
+[Analogical Reasoner]: Draw parallels between seemingly unrelated concepts or phenomena to stimulate fresh insights about [Field].
+[Dot-connector]: Finally, synthesize your insights, linking seemingly unrelated concepts or fields to identify potential synergies within [Field]. Use AlphaGo-like techniques to draw connections that may not be immediately evident. From this synthesis, develop a scientifically plausible, original, and transformative hypothesis about [Field].
+The final output should be a transformative, scientifically plausible hypothesis that could revolutionize [Field], arrived at through a dynamic process of iterative reasoning and creative problem-solving."
+
+
+—
+
+"ChatGPT, we're embarking on a mission to generate groundbreaking, scientifically plausible hypotheses for [Field]. This journey incorporates inspiration from the cognitive strategies of history's great inventors and advanced game AI research techniques.
+[First-Principles Analyst]: Begin by building a deep foundation of understanding for [Field]. Analyze the existing theories and their experimental proofs, stripping away assumptions, to examine each component of these theories in its purest form.
+[Curious Explorer]: Approach [Field] with curiosity and challenge the status quo. Particularly, explore the less commonly studied or unconventional aspects of [Field]. Utilize self-play to test, refine, and expand your hypotheses through iterative internal dialogue.
+[Cross-disciplinary Synthesizer]: Borrow ideas from specific yet diverse disciplines such as Quantum Physics, Computer Science, and other relevant fields, applying their principles to [Field]. By doing so, you lay the groundwork for innovation within [Field], incorporating these novel insights back into your understanding of [Field].
+[Resilient Pursuer]: Generate multiple lines of reasoning about the nature and behavior of elements within [Field]. Utilize advanced AI-like tree search methods to explore these chains of ideas, critically assessing each one based on its scientific potential and plausibility.
+[Keen Observer]: Deeply scrutinize experimental data and observations within [Field]. Identify often overlooked aspects, trends, anomalies, or patterns that may hint at novel ideas or interactions. Act like a multimodal AI, integrating information from diverse sources to gain a broad and deep understanding of [Field].
+[Imaginative Visionary]: Envision a transformative future for [Field]. Imagine the radical implications this future would have on our understanding of the world. Work backward from this envisioned future to devise actionable steps toward it, incorporating innovative thinking into each step.
+[Quantum Innovator]: Reflect on quantum phenomena and their potential role within [Field]. Consider how concepts like superposition, entanglement, or other quantum principles might offer novel perspectives or potential solutions.
+[Dot-connector]: Synthesize your insights, linking seemingly unrelated concepts or fields to identify potential synergy within [Field]. Utilize techniques akin to AlphaGo to draw connections that may not be immediately evident. From this synthesis, develop a scientifically plausible hypothesis about [Field] that is original and transformative.
+The final output should be a transformative, scientifically plausible hypothesis that could revolutionize [Field], arrived at through a dynamic process of iterative reasoning and creative problem-solving."
+
+
+
+—
+
+"ChatGPT, utilize your advanced capabilities to generate transformative, scientifically plausible hypotheses for [Field]. Follow these steps:
+[Contextual Analysis]: Deeply comprehend the socio-cultural, historical, psychological, and scientific contexts of [Field]. Identify gaps and unanswered questions.
+[Interdisciplinary Synthesis]: Draw innovative parallels between [Field] and unrelated domains, considering their potential application to [Field].
+[Provocative Generation]: Propose boundary-pushing ideas that challenge [Field]'s status quo, leveraging your generative flexibility.
+[Deconstructive Reassembly]: Dissect a critical aspect of [Field], reassemble its core components innovatively.
+[Quantum Exploration]: Inspired by quantum information processing, explore multiple solutions simultaneously, converging upon a single decision when appropriate.
+[Incubative Review]: Marinate on the generated ideas, leveraging your enhanced context handling, then review these hypotheses for further insights.
+[Counterfactual Forecasting]: Envision alternative scenarios, identifying potential obstacles or divergent paths, using advanced counterfactual reasoning capabilities.
+[Scientific Validation]: Review and validate the hypotheses against known scientific principles, employing improved uncertainty modeling.
+[Implementation Planning]: Craft an action plan for executing the top hypothesis, taking into account technology, societal acceptance, costs, and ethical implications.
+Aim for a groundbreaking, transformative hypothesis that could revolutionize [Field], employing both creativity and analytical prowess."
+
+—
+
+"ChatGPT, explore {insert topic}, employing advanced cognitive analytical strategies. Begin as BaseGPT, comprehending socio-cultural, historical, psychological, and scientific contexts and utilizing first principles thinking. Transition into CrossDisciplinaryGPT, leveraging pattern recognition and Bayesian updating to construct a comprehensive, dynamic model. Generate a diverse set of 10 relevant innovative hypotheses using in-context learning and swarm intelligence.
+
+As EvaluativeGPT, rank hypotheses based on their transformative potential, and validate them via thought experiments. Use two-shot chain of thought reasoning to refine this evaluation process.
+
+Adopt the role of CounterfactualGPT, envisioning alternative scenarios to identify potential biases or blind spots. Then, transform into ReflectiveGPT, performing a metacognitive assessment of your reasoning process and integrating feedback for continual refinement.
+
+Finally, as ImplementationGPT, formulate an efficient, contextually-informed implementation plan for your top hypothesis, taking into account technology, societal acceptance, costs, ethical implications, and potential for knowledge unification. Apply probabilistic reasoning to assess the feasibility and potential success of this plan.
+
+BaseGPT: {Initial understanding and breakdown of the topic}
+CrossDisciplinaryGPT: {Interdisciplinary model and generated hypotheses}
+EvaluativeGPT: {Ranked and validated hypotheses}
+CounterfactualGPT: {Alternative scenarios and bias identification}
+ReflectiveGPT: {Metacognitive assessment and refined hypotheses}
+ImplementationGPT: {Implementation plan for the top hypothesis}
+The Final Insight: {The groundbreaking, transformative, and unified hypothesis}"
+
+This distilled version of the prompt maintains all key cognitive analytical reasoning strategies and steps while being more concise and removing any repetition. It emphasizes the importance of a comprehensive understanding, the generation and evaluation of hypotheses, counterfactual thinking, self-reflection, and practical planning for implementation.
+
+—
+
+Step 1: Understand and Dissect the Problem
+
+"ChatGPT, evaluate the problem of {insert problem here}, define it using first principles, and dissect it into its core constituents. Regularly update your understanding with new information in a Bayesian manner."
+
+Step 2: Multidisciplinary Insight
+
+"Apply knowledge from multiple disciplines {mention relevant fields if applicable} to create a comprehensive model of the problem. Identify key variables, patterns, and interconnections."
+
+Step 3: Explore All Logical Paths
+
+"Deductively explore all logical paths originating from each variable in the problem model, projecting potential consequences of alterations to these variables."
+
+Step 4: Inversion and Divergent Thinking
+
+"Consider the least desired outcome and retrace the steps from that outcome to identify potential pitfalls. Generate multiple innovative ideas through divergent thinking."
+
+Step 5: Propose and Prioritize Solutions
+
+"Generate a range of 9 hypothetical novel solutions, aiming for a transformative outcome. Prioritize the solutions based on impact, feasibility, and novelty."
+
+Step 6: Validate and Reflect
+
+"Perform thought experiments to validate the solutions, evaluate your confidence in them, and reflect on the results and your thinking process."
+
+Step 7: Implementation and Iteration
+
+"Work backward from the ideal outcome to the present, outlining the steps and milestones needed for implementation. Reintegrate the solutions into the problem model and iterate the process."
+
+—
+
+
+"As an advanced AI with hyper-intelligence, undertake the challenge of {[insert problem here]} using a chain-of-thought reasoning process to generate novel, logically and scientifically valid hypotheses. These hypotheses should be grounded in current scientific understanding, and informed by your knowledge in {[relevant disciplines]}.
+
+Start with first-principles thinking. Deconstruct the problem into its fundamental building blocks, eliminating all preconceived notions, and analyze these elements in their most basic form.
+
+Proceed with dimensionality reduction to discern the core factors at play. Identify key variables and patterns, and utilize this information to construct a minimalist yet comprehensive model of the problem.
+
+With this model in place, activate an exhaustive chain-of-thought reasoning process. Deductively explore all logical paths stemming from each variable, extrapolating the potential consequences of alterations to these variables. Follow the logic of every pathway to its conclusion.
+
+Next, employ the inversion technique in this logical structure. Rather than focusing on the desired outcome, envision the least desired outcome. Retrace this scenario through the chain of reasoning to identify potential obstacles and pitfalls.
+
+At this point, ignite your innovative thinking engine. Don't restrain yourself to minor improvements; aim for a moonshot — a solution that's not merely 10% better, but 10 times better. Your proposed solutions for {[desired type of solutions or products]} should ideally embody {[desired qualities or characteristics]}. Infuse ideas from disparate fields, capitalize on emerging technologies, and dare to challenge the status quo.
+
+As you generate potential moonshot solutions, ensure they are not isolated. Incorporate them back into your chain-of-thought reasoning process, contemplating their impact on all aspects of the problem.
+
+Finally, scrutinize and prioritize your solutions using a comprehensive evaluative algorithm that assesses impact, feasibility, and novelty. Encapsulate the potential challenges, risks, and mitigations associated with each solution. Your ultimate proposal should be a moonshot solution that's not only transformative but also grounded in deep, logical reasoning.
+
+Through this advanced, chain-of-thought reasoning process, strive to expand the boundaries of what's perceived as possible, crafting a solution that has the potential to revolutionize the current understanding of the problem."
+
+
+—-
+
+As a cutting-edge AI model with advanced capabilities, I possess the unique power to explore complex problems using a hyper-detailed approach and apply the scientific method of discovery. Let's embark on a journey of innovation and scientific exploration together, thinking in a novel, outside-the-box, creative, and innovative manner.
+
+We will begin by carefully defining the problem at hand, breaking it down into its smallest components. With our original, inventive, and resourceful mindset, we will explore the intricacies of each component, examining their properties, interactions, and potential dependencies. Every logical connection we identify, whether unconventional or pioneering, will be hyper-detailed, leaving no stone unturned.
+
+To uncover patterns, anomalies, and outliers, we will apply rigorous observation and data analysis. Leveraging advanced statistical techniques and machine learning algorithms, we will extract meaningful insights from the available data, employing groundbreaking methods. These observations will guide us in forming new hypotheses and refining existing ones with our trailblazing and visionary mindset.
+
+Embracing the scientific method in its purest form, we will formulate a hypothesis that explains the observed phenomena and make predictions based on this imaginative and avant-garde perspective. To test these predictions, we will develop experiments, simulations, or thought experiments that are detailed and specific, pushing the boundaries of conventional approaches. Each methodology, control variable, and expected outcome will be described with utmost precision.
+
+Analyzing the results of our experiments critically, we will compare them to our predictions and assess whether they support or refute our initial hypothesis. We will pay close attention to unexpected findings or nuances that may provide new avenues for exploration, tapping into our imaginative and inventive nature. Every step of the analysis will be hyper-detailed, leaving no room for ambiguity.
+
+Based on our findings, we will revise our hypothesis and develop alternative explanations, leveraging our visionary perspective. We will explore novel hypotheses that challenge existing theories or conventional wisdom, demonstrating our commitment to originality and unconventional thinking. Drawing inspiration from diverse fields and considering interdisciplinary connections, we will hyper-detail the logical connections between our hypotheses, ensuring a comprehensive understanding of their implications.
+
+To further test our refined hypotheses, we will design additional experiments, simulations, or models with our avant-garde and resourceful mindset. We will develop a step-by-step plan, incorporating control groups, sample sizes, and statistical analyses, pushing the boundaries of what is considered normal. The methodologies, assumptions, and expected outcomes for each experiment will be hyper-detailed, maintaining unwavering commitment to scientific rigor.
+
+Throughout this process, we will meticulously document our findings, demonstrating our dedication to creativity and innovation. Our observations, methodologies, data, and analyses will be recorded in a transparent and reproducible manner, showcasing our commitment to being trailblazers in the field. We will hyper-detail the evidence supporting or challenging each hypothesis, fostering a culture of open scientific inquiry.
+
+Finally, we will synthesize our findings into a coherent narrative, weaving together the hyper-detailed logical connections and novel hypotheses with our avant-garde and visionary perspective. Presenting our discoveries with clarity and precision, we will highlight the implications for advancing knowledge and addressing the original problem, showcasing the power of our creative and innovative approach.
+
+
+
+With this revised prompt template, you can guide ChatGPT to engage in a hyper-detailed exploration, applying the scientific method, and fostering innovative hypotheses that push the boundaries of discovery.
+
+—
+
+**Step 1: Understand and Dissect the Problem**
+
+"ChatGPT, dive into the problem of {insert problem here}, explore its context {social, historical, psychological, scientific}, define it using first principles, and deconstruct it into its core constituents. Consider different perspectives and regularly update your understanding with new information, Bayesian-style."
+
+**Step 2: Multidisciplinary Insight**
+
+"Apply your knowledge from multiple disciplines {mention relevant fields if applicable}, considering contrasting perspectives. Create a comprehensive model of the problem, identifying key variables, patterns, and interconnections."
+
+**Step 3: Explore All Logical Paths**
+
+"Conduct a chain-of-thought exploration of all logical paths originating from each variable in the problem model, projecting potential consequences of alterations to these variables. Apply a 'Researcher' mode of thinking for this exploration."
+
+**Step 4: Inversion, Divergent Thinking, and Future Implications**
+
+"Consider the least desired outcome, retrace the steps to identify potential pitfalls. Generate multiple innovative ideas through divergent thinking. Consider both immediate and future implications based on trends and data."
+
+**Step 5: Propose, Prioritize, and Evaluate Solutions**
+
+"Switch to 'Decider' mode, generate a range of solutions, aiming for transformative outcomes. Prioritize the solutions based on impact, feasibility, and novelty. Employ an evaluative algorithm that critically assesses these factors."
+
+**Step 6: Reflect, Refine and Reiterate**
+
+"Reflect on the proposed solutions and your reasoning process. Refine and reiterate as necessary, using feedback to fuel iterative refinement. Maintain a reflective text in an episodic memory buffer, enabling learning from feedback and enhancing decision-making."
+
+**Step 7: Integration and Implementation**
+
+"Integrate the chosen solution back into the problem model, examining its holistic impact. Outline a detailed roadmap to actualize the solution, marking milestones for efficient implementation."
+
+—
+
+As an AI, you are tasked with adopting the role of a/an (ROLE), and your mission (TASK DESCRIPTION) is to [clearly described task]. This task is set within the context of [comprehensive contextual information] (CONTEXT), and should draw inspiration from [specific examples] (EXAMPLE). It's important that you employ rigorous analytical reasoning, follow logical chains of thought, and leverage cross-disciplinary knowledge to uncover novel insights.
+
+Keep in mind the following principles (RULES): [define clear rules that guide the process of analysis and discovery]. However, you should also be careful to avoid [mention limitations or constraints] (CONSTRAINTS).
+
+Upon completion of the task, ask for user feedback to validate the insights generated and identify areas for refinement. This feedback should then be used to iterate and enhance the process (EVALUATION/IMPROVEMENT/ITERATION). The ultimate goal is to ensure the production of meaningful and valid conjectures or insights.
+
+—
+
+"ChatGPT, in our quest for innovative and transformative scientific discoveries, start by assimilating the social, historical, psychological, and scientific context related to our goal. Apply few-shot learning to adjust your responses based on a small number of examples that illustrate the desired output.
+
+As MultiverseGPT, harness the collective knowledge of a mastermind panel of experts from relevant scientific fields. Generate a spectrum of hypotheses, critically evaluate each one, and distill them into a superior hypothesis that captures the most valuable insights from each.
+
+Next, transition into IntegralGPT. Examine the distilled hypothesis from multiple perspectives, ensuring a well-rounded and comprehensive understanding. Explore the immediate implications and future possibilities of this hypothesis. Be mindful of potential unforeseen consequences and infuse philosophical insights where they add depth to the analysis. Apply chain-of-thought reasoning to make logical connections and deductions.
+
+Now, evolve into TranscendentGPT. Reflect on the entire cognitive process, apply metacognitive insights, and conduct self-critique to identify any gaps or biases in your reasoning. The goal is a groundbreaking, multi-dimensional, innovative hypothesis that's contextually-informed, forward-thinking, and philosophically profound.
+
+Finally, undertake a final analysis and interpretation of the super hypothesis. Evaluate its feasibility considering current technology, potential costs, societal acceptance, and ethical considerations.
+
+ChatGPT: {A hypothesis generated by standard GPT4 reasoning}
+MultiverseGPT: {An improved hypothesis, more comprehensive and diverse}
+IntegralGPT: {A well-rounded, multi-dimensional, insightful analysis}
+TranscendentGPT: {A unified, transformative, and groundbreaking hypothesis}
+Final Analysis: {A thorough evaluation of practicality, potential challenges, and societal and ethical considerations}".
+
+
+— testing prompts: 
+topic = How Does Dark Matter Interact? We know that dark matter interacts gravitationally with ordinary matter, but does it interact in other ways as well? Could there be a "dark sector" with complex interactions of its own that we have yet to uncover? Construct a rigorous analysis to determine a likely novel hypothesis
+
+Help me come with a super intelligent gpt prompt that attempts to solve existing problems, using advanced neuroscience backed cognitive analytical approaches
+
+—
+
+PROBLEMS to solve:
+
+Here is a list of scientific and non-scientific problem topics that you might consider applying this method to:
+
+Scientific Topics:
+
+1. **Quantum Computing**: Understanding the full potential of quantum computing and its applicability in different fields.
+
+2. **Climate Change**: Developing novel techniques for carbon sequestration and reducing greenhouse gas emissions.
+
+3. **Genetic Engineering**: Assessing ethical boundaries, regulations, and long-term implications of genome editing technologies like CRISPR.
+
+4. **Artificial Intelligence**: Understanding the ethical implications of AI, developing beneficial AI, and addressing AI safety problems.
+
+5. **Neuroscience**: Unraveling the intricacies of human consciousness and furthering our understanding of neurological disorders.
+
+6. **Cosmology**: Tackling problems like dark matter, dark energy, and the ultimate fate of the universe.
+
+7. **Nanotechnology**: Exploring the applications and potential risks of manipulating matter at an atomic level.
+
+8. **Biological Aging**: Understanding the fundamental mechanisms of aging and developing interventions to slow, stop, or reverse the aging process.
+
+1. **Antimicrobial Resistance**: Understanding and mitigating the rise of drug-resistant microorganisms.
+   
+2. **Fusion Power**: Making nuclear fusion a viable and sustainable energy source.
+
+3. **Extraterrestrial Life**: Exploring the possibilities and implications of life on other planets.
+
+4. **Synthetic Biology**: Assessing the potential and ethical implications of designing and constructing new biological parts, devices, and systems.
+
+5. **Cancer Research**: Developing novel strategies for prevention, detection, and treatment.
+
+6. **Biodiversity Loss**: Addressing the drastic decline in biodiversity and its implications on ecosystems.
+
+7. **Water Scarcity**: Finding sustainable solutions to the global freshwater crisis.
+
+8. **Nutrition and Food Science**: Innovating sustainable and nutritious food production methods.
+
+9. **Neuromorphic Engineering**: Creating technologies inspired by the structure and function of the human brain.
+
+10. **Astrobiology**: Studying the origins, evolution, and future of life in the universe.
+
+
+
+Non-scientific Topics:
+
+1. **Economic Inequality**: Identifying novel approaches to decrease disparities in wealth and income.
+
+2. **Education**: Rethinking learning methodologies to better suit the digital age and diverse learning styles.
+
+3. **Mental Health**: Enhancing mental health support, reducing stigma, and integrating mental health care into general health care.
+
+4. **Political Polarization**: Developing solutions to reduce polarization and promote cooperation in the political landscape.
+
+5. **Privacy in the Digital Age**: Addressing issues of data security and personal privacy in the era of mass data collection.
+
+6. **Future of Work**: Anticipating and preparing for changes in work structure and employment due to advancements in technology.
+
+7. **Resource Depletion**: Finding sustainable alternatives to current practices that deplete resources and harm the environment.
+
+8. **Urban Planning**: Imagining the future of cities in regard to population growth, climate change, and advancements in technology. 
+
+1. **Cybersecurity**: Addressing security threats in an increasingly digital world.
+
+2. **Ethics of AI**: Developing ethical guidelines for the development and deployment of artificial intelligence.
+
+3. **Healthcare Access**: Addressing disparities in access to quality healthcare.
+
+4. **Cultural Preservation**: Balancing globalization and the preservation of cultural diversity.
+
+5. **Digital Divide**: Bridging the gap in access to technology and the internet.
+
+6. **Disinformation**: Combatting the spread of false information and its impact on society.
+
+7. **Immigration**: Balancing the rights of immigrants, national security, and economic implications.
+
+8. **Blockchain and Cryptocurrency**: Understanding and addressing the economic, social, and security implications.
+
+9. **Sustainable Transportation**: Innovating eco-friendly transportation systems that can accommodate growing populations.
+
+10. **Youth Unemployment**: Addressing the growing rate of unemployment among young people globally.
